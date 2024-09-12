@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Layout from "../components/Layout";
 
@@ -20,7 +21,7 @@ const IndexPage = () => (
         </h3>
         <h1 className="text-7xl lg:text-9xl font-extrabold">We’r blowing up</h1>
         <p className="text-xl lg:text-2xl tracking-wide mx-10 lg:max-w-xl lg:mx-auto">
-          We`re under construction. Check back for an update soon. Stay in
+          We're under construction. Check back for an update soon. Stay in
           touch!
         </p>
       </div>
